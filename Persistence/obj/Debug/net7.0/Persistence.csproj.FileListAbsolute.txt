@@ -1,0 +1,15 @@
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/bin/Debug/net7.0/Persistence.dll
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/bin/Debug/net7.0/Persistence.pdb
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/bin/Debug/net7.0/Domain.dll
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/bin/Debug/net7.0/Domain.pdb
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.dll
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/Persistence.pdb
+/home/skylab-107/Documents/PushUpEnviaBackend/Persistence/obj/Debug/net7.0/ref/Persistence.dll
